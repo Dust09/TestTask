@@ -1,4 +1,4 @@
-test
+test22
 # Запуск проекта
 
 Для запуска UI теста на Windows необходимо заменить chromedriver по пути src/test/resources/chromedriver 
